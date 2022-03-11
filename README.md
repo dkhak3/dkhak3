@@ -1,7 +1,7 @@
 # <p align="center">𝑵𝒈𝒖𝒚𝒆̂̃𝒏 𝑯𝒖̛̃𝒖 𝑫𝒖𝒚 𝑲𝒉𝒂</p>
 
 <p align="center">
-	<a href="https://github.com/DuyKha2003">
+	<a href="https://github.com/dkhak3">
 	<img src="https://avatars.githubusercontent.com/u/96913184?v=4" width = "200" alt="TNT">
 	</a>
 </p>
@@ -16,7 +16,7 @@ namespace profile
         static void Main(string[] args)
         {
             string Name = "Nguyễn Hữu Duy Kha";
-            int Age = 19;
+            int Age = 2003;
             string Gender = "Male";
             string Address = "Bình Thuận, Việt Nam";
             string University = "Trường Cao Đẳng Công Nghệ Thủ Đức";
