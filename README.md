@@ -16,7 +16,7 @@ namespace profile
         static void Main(string[] args)
         {
             string Name = "Nguyễn Hữu Duy Kha";
-            int Age = 2003;
+            string Age = "2003";
             string Gender = "Male";
             string Address = "Bình Thuận, Việt Nam";
             string University = "Trường Cao Đẳng Công Nghệ Thủ Đức";
