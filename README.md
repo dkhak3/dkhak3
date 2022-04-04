@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/dkhak3">
-	<img src="https://avatars.githubusercontent.com/u/94631848?v=4" width = "200" alt="TNT">
+	<img src="https://secure.gravatar.com/avatar/7c57618f571c37a665dca9d3730d94c6?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Fdefault-avatar-2.png" width = "200" alt="TNT">
 	</a>
 </p>
 
